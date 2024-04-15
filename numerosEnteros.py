@@ -10,6 +10,6 @@ if __name__ == '__main__':
                 numero = int(input('Número invalido, ingrese nuevamente el número: '))
                 os.system('cls')
         
-        suma = suma + numero
+        suma += numero
         os.system('cls')
     print(f'La suma de los números es: {suma} ')
