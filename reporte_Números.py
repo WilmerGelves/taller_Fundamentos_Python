@@ -55,9 +55,7 @@ if __name__ == '__main__':
             print(f'Numeros mayores de 100: {mayores}')
             os.system('pause')
             exit()
-
-
-
+            
     os.system('pause')
     try:
         promPares = (promPares/pares)
